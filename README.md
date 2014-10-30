@@ -1,4 +1,4 @@
 GlycopepSearch
 ==============
 
-Search for mass spectrometry spectra of glycosylated peptides
+Search for tandem mass spectrometry spectra of glycosylated peptides
